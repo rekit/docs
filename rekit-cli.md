@@ -2,7 +2,7 @@
 description: Command line interface for Rekit
 ---
 
-# Rekit CLI
+# Command Line Interface
 
 Installation
 

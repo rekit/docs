@@ -5,7 +5,7 @@ description: >-
   system.
 ---
 
-# Getting Started with Rekit
+# Getting Started
 
 ## Packages
 

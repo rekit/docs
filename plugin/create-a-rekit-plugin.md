@@ -1,2 +1,2 @@
-# Create a Rekit plugin
+# Create a Rekit Plugin
 
