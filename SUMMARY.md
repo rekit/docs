@@ -9,6 +9,7 @@
 * [Tabs Bar](tabs-bar.md)
 * [Code Editor](code-editor.md)
 * [Bottom Drawer](bottom-drawer.md)
+* [Application Types](application-types.md)
 
 ## Plugin Mechanism
 
@@ -18,7 +19,7 @@
   * [Overview](plugin/api-reference/overview.md)
   * [Extend layouts](plugin/api-reference/extend-layouts.md)
 
-## Boilerplates
+## Application Types
 
 * [Rekit React](boilerplates/rekit-react/README.md)
   * [Overview](boilerplates/rekit-react/overview.md)
