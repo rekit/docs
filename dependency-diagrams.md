@@ -1,2 +1,2 @@
-# Dependency Diagrams
+# Diagramming
 

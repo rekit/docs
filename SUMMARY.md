@@ -2,18 +2,19 @@
 
 * [Getting Started](README.md)
 * [Overview](overview.md)
+* [Application Types](application-types.md)
 * [Command Line Interface](rekit-cli.md)
-* [Project Element](project-element.md)
+* [Element](project-element.md)
 * [Project Explorer](project-explorer.md)
-* [Dependency Diagrams](dependency-diagrams.md)
+* [Diagramming](dependency-diagrams.md)
 * [Tabs Bar](tabs-bar.md)
 * [Code Editor](code-editor.md)
 * [Bottom Drawer](bottom-drawer.md)
-* [Application Types](application-types.md)
 
-## Plugin Mechanism
+## Rekit Development
 
 * [Overview](plugin/untitled.md)
+* [Plugin Architecture](plugin/plugin-architecture.md)
 * [Create a Rekit Plugin](plugin/create-a-rekit-plugin.md)
 * [API reference](plugin/api-reference/README.md)
   * [Overview](plugin/api-reference/overview.md)
