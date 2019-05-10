@@ -14,8 +14,10 @@
 ## Rekit Development
 
 * [Overview](plugin/untitled.md)
+* [Project Element](plugin/project-element.md)
 * [Plugin Architecture](plugin/plugin-architecture.md)
-* [Create a Rekit Plugin](plugin/create-a-rekit-plugin.md)
+* [Create a Rekit Plugin](plugin/create-a-rekit-plugin/README.md)
+  * [Application Plugin](plugin/create-a-rekit-plugin/application-plugin.md)
 * [API reference](plugin/api-reference/README.md)
   * [Overview](plugin/api-reference/overview.md)
   * [Extend layouts](plugin/api-reference/extend-layouts.md)
