@@ -4,7 +4,7 @@ description: >-
   Rekit plugin development.
 ---
 
-# Overview
+# Get Started
 
 ## Getting Super Powers
 

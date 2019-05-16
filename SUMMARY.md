@@ -13,7 +13,8 @@
 
 ## Rekit Development
 
-* [Overview](plugin/untitled.md)
+* [Get Started](plugin/untitled.md)
+* [Extension Point](plugin/extension-point.md)
 * [Provide Project Data](plugin/project-element.md)
 * [Customize Menus](plugin/customize-menus.md)
 * [Plugin Architecture](plugin/plugin-architecture.md)
