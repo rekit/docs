@@ -26,16 +26,16 @@
 
 ## Application Types
 
-* [Rekit React](boilerplates/rekit-react/README.md)
-  * [Overview](boilerplates/rekit-react/overview.md)
-  * [Element Types](boilerplates/rekit-react/element-types.md)
-  * [Redux Management](boilerplates/rekit-react/redux-management.md)
-  * [React Router](boilerplates/rekit-react/react-router.md)
-  * [Styling](boilerplates/rekit-react/styling.md)
-  * [Build](boilerplates/rekit-react/build.md)
-  * [Testing](boilerplates/rekit-react/testing.md)
-* [Create React App](boilerplates/create-react-app.md)
-* [Rekit Plugin](boilerplates/rekit-plugin.md)
-* [VueJS](boilerplates/vuejs.md)
-* [AngularJS](boilerplates/angularjs.md)
+* [Rekit React](app-types/rekit-react/README.md)
+  * [Overview](app-types/rekit-react/overview.md)
+  * [Element Types](app-types/rekit-react/element-types.md)
+  * [Redux Management](app-types/rekit-react/redux-management.md)
+  * [React Router](app-types/rekit-react/react-router.md)
+  * [Styling](app-types/rekit-react/styling.md)
+  * [Build](app-types/rekit-react/build.md)
+  * [Testing](app-types/rekit-react/testing.md)
+* [Create React App](app-types/create-react-app.md)
+* [Rekit Plugin](app-types/rekit-plugin.md)
+* [VueJS](app-types/vuejs.md)
+* [AngularJS](app-types/angularjs.md)
 
