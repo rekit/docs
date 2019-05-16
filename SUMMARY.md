@@ -15,6 +15,7 @@
 
 * [Overview](plugin/untitled.md)
 * [Provide Project Data](plugin/project-element.md)
+* [Customize Menus](plugin/customize-menus.md)
 * [Plugin Architecture](plugin/plugin-architecture.md)
 * [Create a Rekit Plugin](plugin/create-a-rekit-plugin/README.md)
   * [Application Plugin](plugin/create-a-rekit-plugin/application-plugin.md)
