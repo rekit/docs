@@ -16,6 +16,8 @@
 * [Get Started](plugin/untitled.md)
 * [Extension Point](plugin/extension-point.md)
 * [Provide Project Data](plugin/project-element.md)
+* [Define a New Type of Element](plugin/define-a-new-type-of-element.md)
+* [Core Dialog](plugin/core-dialog.md)
 * [Customize Menus](plugin/customize-menus.md)
 * [Plugin Architecture](plugin/plugin-architecture.md)
 * [Create a Rekit Plugin](plugin/create-a-rekit-plugin/README.md)
