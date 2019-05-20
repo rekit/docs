@@ -25,6 +25,7 @@
 * [Create a Rekit Plugin](plugin/create-a-rekit-plugin/README.md)
   * [Application Plugin](plugin/create-a-rekit-plugin/application-plugin.md)
 * [Plugin Development](plugin/plugin-development.md)
+* [Form Builder](plugin/form-builder.md)
 * [API reference](plugin/api-reference/README.md)
   * [Overview](plugin/api-reference/overview.md)
   * [Extend layouts](plugin/api-reference/extend-layouts.md)
