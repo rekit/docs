@@ -10,6 +10,7 @@
 * [Tabs Bar](tabs-bar.md)
 * [Code Editor](code-editor.md)
 * [Bottom Drawer](bottom-drawer.md)
+* [Move/Rename](move-rename.md)
 
 ## Rekit Development
 
